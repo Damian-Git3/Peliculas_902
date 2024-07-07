@@ -1,0 +1,6 @@
+@TareasAPI_902_HostAddress = http://localhost:5204
+
+GET {{TareasAPI_902_HostAddress}}/tareas/
+Accept: application/json
+
+###
